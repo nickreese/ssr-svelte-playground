@@ -1,0 +1,24 @@
+{
+  "name": "ssr-svelte-playground",
+  "version": "1.0.0",
+  "description": "Testing to see if SSR svelte files can be preprocessed and support ESM",
+  "main": "customCompile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickreese/ssr-svelte-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickreese/ssr-svelte-playground/issues"
+  },
+  "homepage": "https://github.com/nickreese/ssr-svelte-playground#readme",
+  "dependencies": {
+    "@elderjs/elderjs": "0.0.22",
+    "svelte": "^3.24.1",
+    "svelte-images": "0.0.95"
+  }
+}
